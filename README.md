@@ -20,7 +20,11 @@ Install python from here:
 https://www.python.org/.
 
 After installation of python.
+
 open cmd in administrator mode and run these commands one by one:
+
 pip install --upgrade pip
+
 pip install openpyxl
+
 pip install Jinja2
